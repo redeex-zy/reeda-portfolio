@@ -1,5 +1,5 @@
 const typing = document.getElementById('typing');
-const text = 'Mohamed Rèda Mejhed — Cybersecurity Portfolio';
+const text = 'Redeex — Cybersecurity Portfolio';
 let index = 0;
 
 function typeEffect() {
